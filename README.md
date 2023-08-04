@@ -82,7 +82,7 @@ SpringBoot app
 
 Felipe Carvalho Fernandez
 
-https://www.linkedin.com/in/felipe-carvalho-fernandez/
+https://www.linkedin.com/in/fernandez-felipe/
 
 # Agradecimento
 
